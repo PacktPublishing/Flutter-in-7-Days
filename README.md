@@ -32,6 +32,6 @@ Flutter 1.0 installed
 ## Related Products
 * [Flutter in 7 Days [Video]](https://www.packtpub.com/application-development/flutter-7-days-video)
 
-* Flutter App Development For Beginners [Video](https://www.packtpub.com/application-development/flutter-app-development-beginners-video)
+* [Flutter App Development For Beginners [Video]](https://www.packtpub.com/application-development/flutter-app-development-beginners-video)
 
 * [Real-World Projects with Flutter [Video]](https://www.packtpub.com/application-development/real-world-projects-flutter-video)
